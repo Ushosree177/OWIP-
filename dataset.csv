@@ -1,0 +1,201 @@
+query,official_link,type
+MIT,https://www.mit.edu,education
+Stanford University,https://www.stanford.edu,education
+Harvard University,https://www.harvard.edu,education
+Oxford University,https://www.ox.ac.uk,education
+Cambridge University,https://www.cam.ac.uk,education
+ETH Zurich,https://ethz.ch,education
+University of Tokyo,https://www.u-tokyo.ac.jp,education
+National University of Singapore,https://www.nus.edu.sg,education
+University of Melbourne,https://www.unimelb.edu.au,education
+University of Toronto,https://www.utoronto.ca,education
+Imperial College London,https://www.imperial.ac.uk,education
+Tsinghua University,https://www.tsinghua.edu.cn,education
+Peking University,https://www.pku.edu.cn,education
+Princeton University,https://www.princeton.edu,education
+Yale University,https://www.yale.edu,education
+Cornell University,https://www.cornell.edu,education
+UPenn,https://www.upenn.edu,education
+Columbia University,https://www.columbia.edu,education
+Caltech,https://www.caltech.edu,education
+University of Edinburgh,https://www.ed.ac.uk,education
+UC Berkeley,https://www.berkeley.edu,education
+UCLA,https://www.ucla.edu,education
+University of Chicago,https://www.uchicago.edu,education
+Nanyang Technological University,https://www.ntu.edu.sg,education
+Kyoto University,https://www.kyoto-u.ac.jp,education
+Seoul National University,https://www.snu.ac.kr,education
+University of Hong Kong,https://www.hku.hk,education
+McGill University,https://www.mcgill.ca,education
+Australian National University,https://www.anu.edu.au,education
+University of Sydney,https://www.sydney.edu.au,education
+Lomonosov Moscow State University,https://www.msu.ru,education
+Sorbonne University,https://www.sorbonne-universite.fr,education
+University of Amsterdam,https://www.uva.nl,education
+Technical University of Munich,https://www.tum.de,education
+KAIST,https://www.kaist.ac.kr,education
+Zhejiang University,https://www.zju.edu.cn,education
+IIT Bombay,https://www.iitb.ac.in,education
+IIT Delhi,https://www.iitd.ac.in,education
+Fudan University,https://www.fudan.edu.cn,education
+TU Delft,https://www.tudelft.nl,education
+Paris-Saclay University,https://www.universite-paris-saclay.fr,education
+University of British Columbia,https://www.ubc.ca,education
+King's College London,https://www.kcl.ac.uk,education
+Heidelberg University,https://www.uni-heidelberg.de,education
+Ludwig Maximilian University,https://www.lmu.de,education
+Erasmus University Rotterdam,https://www.eur.nl,education
+Monash University,https://www.monash.edu,education
+University of Auckland,https://www.auckland.ac.nz,education
+University of Copenhagen,https://www.ku.dk,education
+KTH Royal Institute of Technology,https://www.kth.se,education
+Google,https://www.google.com,company
+Microsoft,https://www.microsoft.com,company
+Apple,https://www.apple.com,company
+Amazon,https://www.amazon.com,company
+Meta,https://about.meta.com,company
+Netflix,https://www.netflix.com,company
+Tesla,https://www.tesla.com,company
+IBM,https://www.ibm.com,company
+Intel,https://www.intel.com,company
+Adobe,https://www.adobe.com,company
+Nvidia,https://www.nvidia.com,company
+Oracle,https://www.oracle.com,company
+Salesforce,https://www.salesforce.com,company
+Cisco,https://www.cisco.com,company
+Samsung,https://www.samsung.com,company
+Toyota,https://www.toyota.com,company
+Walmart,https://www.walmart.com,company
+ExxonMobil,https://www.exxonmobil.com,company
+Shell,https://www.shell.com,company
+Chevron,https://www.chevron.com,company
+BP,https://www.bp.com,company
+Volkswagen,https://www.volkswagen.com,company
+Mercedes-Benz,https://www.mercedes-benz.com,company
+BMW,https://www.bmw.com,company
+Sony,https://www.sony.com,company
+Panasonic,https://www.panasonic.com,company
+LG Electronics,https://www.lg.com,company
+Dell,https://www.dell.com,company
+HP,https://www.hp.com,company
+AMD,https://www.amd.com,company
+Qualcomm,https://www.qualcomm.com,company
+Siemens,https://www.siemens.com,company
+General Electric,https://www.ge.com,company
+Boeing,https://www.boeing.com,company
+Airbus,https://www.airbus.com,company
+Nike,https://www.nike.com,company
+Adidas,https://www.adidas.com,company
+Coca-Cola,https://www.coca-cola.com,company
+PepsiCo,https://www.pepsico.com,company
+Nestle,https://www.nestle.com,company
+Unilever,https://www.unilever.com,company
+Procter & Gamble,https://www.pg.com,company
+Johnson & Johnson,https://www.jnj.com,company
+Pfizer,https://www.pfizer.com,company
+Visa,https://www.visa.com,company
+Mastercard,https://www.mastercard.com,company
+PayPal,https://www.paypal.com,company
+Starbucks,https://www.starbucks.com,company
+McDonald's,https://www.mcdonalds.com,company
+Disney,https://www.disney.com,company
+GitHub,https://github.com,platform
+Stack Overflow,https://stackoverflow.com,platform
+Kaggle,https://www.kaggle.com,platform
+Coursera,https://www.coursera.org,platform
+edX,https://www.edx.org,platform
+Udemy,https://www.udemy.com,platform
+LinkedIn,https://www.linkedin.com,platform
+Reddit,https://www.reddit.com,platform
+Wikipedia,https://www.wikipedia.org,platform
+Dropbox,https://www.dropbox.com,platform
+Slack,https://slack.com,platform
+Zoom,https://zoom.us,platform
+Discord,https://discord.com,platform
+Spotify,https://www.spotify.com,platform
+Twitch,https://www.twitch.tv,platform
+TikTok,https://www.tiktok.com,platform
+Pinterest,https://www.pinterest.com,platform
+Quora,https://www.quora.com,platform
+Medium,https://medium.com,platform
+Substack,https://substack.com,platform
+Figma,https://www.figma.com,platform
+Canva,https://www.canva.com,platform
+Notion,https://www.notion.so,platform
+Asana,https://asana.com,platform
+Trello,https://trello.com,platform
+Airbnb,https://www.airbnb.com,platform
+Uber,https://www.uber.com,platform
+Lyft,https://www.lyft.com,platform
+Expedia,https://www.expedia.com,platform
+Booking.com,https://www.booking.com,platform
+TripAdvisor,https://www.tripadvisor.com,platform
+eBay,https://www.ebay.com,platform
+Etsy,https://www.etsy.com,platform
+Shopify,https://www.shopify.com,platform
+Salesforce Trailhead,https://trailhead.salesforce.com,platform
+HackerRank,https://www.hackerrank.com,platform
+LeetCode,https://leetcode.com,platform
+Codecademy,https://www.codecademy.com,platform
+Khan Academy,https://www.khanacademy.org,platform
+Duolingo,https://www.duolingo.com,platform
+Pluralsight,https://www.pluralsight.com,platform
+Behance,https://www.behance.net,platform
+Dribbble,https://dribbble.com,platform
+Vimeo,https://vimeo.com,platform
+SoundCloud,https://soundcloud.com,platform
+Bitbucket,https://bitbucket.org,platform
+GitLab,https://about.gitlab.com,platform
+Docker Hub,https://hub.docker.com,platform
+Heroku,https://www.heroku.com,platform
+DigitalOcean,https://www.digitalocean.com,platform
+United Nations,https://www.un.org,government
+World Health Organization,https://www.who.int,government
+World Bank,https://www.worldbank.org,government
+IMF,https://www.imf.org,government
+WTO,https://www.wto.org,government
+NASA,https://www.nasa.gov,government
+European Union,https://european-union.europa.eu,government
+US Government,https://www.usa.gov,government
+UK Government,https://www.gov.uk,government
+Government of India,https://www.india.gov.in,government
+Government of Canada,https://www.canada.ca,government
+Government of Australia,https://www.australia.gov.au,government
+Government of France,https://www.gouvernement.fr,government
+Government of Germany,https://www.bundesregierung.de,government
+Government of Japan,https://www.japan.go.jp,government
+Government of Brazil,https://www.gov.br,government
+FBI,https://www.fbi.gov,government
+CIA,https://www.cia.gov,government
+CDC,https://www.cdc.gov,government
+FDA,https://www.fda.gov,government
+EPA,https://www.epa.gov,government
+IRS,https://www.irs.gov,government
+Department of State,https://www.state.gov,government
+Ministry of Home Affairs India,https://www.mha.gov.in,government
+NITI Aayog,https://niti.gov.in,government
+Reserve Bank of India,https://www.rbi.org.in,government
+European Central Bank,https://www.ecb.europa.eu,government
+Federal Reserve,https://www.federalreserve.gov,government
+Interpol,https://www.interpol.int,government
+UNESCO,https://www.unesco.org,government
+UNICEF,https://www.unicef.org,government
+FAO,https://www.fao.org,government
+ILO,https://www.ilo.org,government
+WIPO,https://www.wipo.int,government
+IAEA,https://www.iaea.org,government
+OECD,https://www.oecd.org,government
+ASEAN,https://asean.org,government
+African Union,https://au.int,government
+NATO,https://www.nato.int,government
+CERN,https://home.cern,government
+ESA,https://www.esa.int,government
+ISRO,https://www.isro.gov.in,government
+JAXA,https://global.jaxa.jp,government
+Roscosmos,https://www.roscosmos.ru,government
+CNES,https://cnes.fr,government
+Met Office UK,https://www.metoffice.gov.uk,government
+NOAA,https://www.noaa.gov,government
+Bureau of Labor Statistics,https://www.bls.gov,government
+Statista,https://www.statista.com,platform
+Census Bureau US,https://www.census.gov,government
